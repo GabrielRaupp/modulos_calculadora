@@ -4,7 +4,7 @@ var multiplicação = require("./modulos/multiplicação");
 var divisao = require("./modulos/divisão");
 
 
-console.log(somar(40,20));
-console.log(media(40,20));
-console.log(divisao(40,20));
-console.log(multiplicação(40,20));
+console.log(somar(40,25));
+console.log(media(40,25));
+console.log(divisao(40,25));
+console.log(multiplicação(40,25));
